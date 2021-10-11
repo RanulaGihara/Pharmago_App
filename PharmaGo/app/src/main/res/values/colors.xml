@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary0">#9CCC65</color>
+    <color name="colorPrimary">#66BB6A</color>
+    <color name="colorPrimary1">#4CAF50</color>
+    <color name="colorSecondary">#FFEB3B</color>
+    <color name="colorSecondary0">#FF9800</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#817F7F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_color">#e53935</color>
+    <color name="transparent_dialog_background">#AA000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="unproductive">#f4c542</color>
+    <color name="not_visited">#ea6e6b</color>
+    <color name="material_list_main_black">#212121</color>
+    <color name="material_list_sub_black">#828282</color>
+    <color name="invalidate_overlay">#ae2f2f2f</color>
+    <color name="edit_background">#9CCC65</color>
+    <color name="edit_background_select">#74A838</color>
+    <color name="edit_background_item">#dedede</color>
+
+    <color name="my_app_color_on_background">#FFFFFF</color>
+
+    <color name="box_margin_color">#e6e6e6</color>
+    <color name="box_no_stock_color">#f97070</color>
+    <color name="bg_gradient_start">#2d2049</color>
+    <color name="bg_gradient_end">#d71861</color>
+    <color name="text_green">#2c9314</color>
+    <color name="free_blue">#48c7ff</color>
+    <color name="other">#88056af7</color>
+    <color name="qty_green">#9CCC65</color>
+</resources>

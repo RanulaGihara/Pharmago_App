@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "45484194093",
+    "firebase_url": "https://ceylagro-294cc.firebaseio.com",
+    "project_id": "ceylagro-294cc",
+    "storage_bucket": "ceylagro-294cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45484194093:android:467e98cb9a731d8b7a3ba4",
+        "android_client_info": {
+          "package_name": "com.example.pharmago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45484194093-ofsijo7jqntr86udh2kstkhllv4gakga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKWSyM43pFJA3Sidm2oADBgNqbYftUVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45484194093-ofsijo7jqntr86udh2kstkhllv4gakga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45484194093:android:fc39b31a9ba743497a3ba4",
+        "android_client_info": {
+          "package_name": "com.sliit.ceylagrolanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45484194093-ofsijo7jqntr86udh2kstkhllv4gakga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKWSyM43pFJA3Sidm2oADBgNqbYftUVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45484194093-ofsijo7jqntr86udh2kstkhllv4gakga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

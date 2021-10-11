@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pharma Go</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="username_hint_text">Username</string>
+    <string name="password_hint_text">Password</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_in">Clock-in</string>
+    <string name="text_out">Clock-out</string>
+    <string name="customer_name">Customer Name <font color='#FF0000'>*</font></string>
+    <string name="customer_address">Customer Address <font color='#FF0000'>*</font></string>
+    <string name="sequence_no">Sequence No <font color='#FF0000'>*</font></string>
+    <string name="phone">Phone <font color='#FF0000'>*</font></string>
+    <string name="route_select">Select A Route <font color='#FF0000'></font></string>
+    <string name="category_select">Select A Category <font color='#FF0000'></font></string>
+    <string name="class_select">Select A Class <font color='#FF0000'></font></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt"><font size="25">Chat with me……</font></string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_go_voice">GoVoice</string>
+    <string name="Ehint"><font size="15">  Type a Message…</font></string>
+    <string name="snd">Send</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

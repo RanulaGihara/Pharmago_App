@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="false">
+        <shape>
+
+            <gradient android:endColor="@color/edit_background_item" android:startColor="@color/edit_background_item" />
+            <corners android:radius="25dp" />
+            <padding android:bottom="5dp" android:left="0dp" android:right="0dp" android:top="0dp" />
+        </shape>
+    </item>
+    <item android:state_selected="true">
+        <shape>
+
+            <gradient android:endColor="@color/edit_background_item" android:startColor="@color/edit_background_item" />
+            <corners android:radius="25dp" />
+            <padding android:bottom="5dp" android:left="0dp" android:right="0dp" android:top="0dp" />
+        </shape>
+    </item>
+
+</selector>
