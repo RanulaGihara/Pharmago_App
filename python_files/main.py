@@ -80,7 +80,8 @@ try:
     myChatModel.load_weights("chatbotmodel.h5")
     print("Loaded model from disk")
 
-except:
+    #test values
+    except:
     # Make our neural network
     myChatModel = Sequential()
     myChatModel.add(Dense(8, input_shape=[len(words)], activation='relu'))
