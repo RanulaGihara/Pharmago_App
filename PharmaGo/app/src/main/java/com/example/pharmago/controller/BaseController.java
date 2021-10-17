@@ -48,7 +48,8 @@ public class BaseController {
 
     public static String baseURL2 = "https://raw.githubusercontent.com/lahiru04/json/master/";
 
-
+// function for post services 
+    
     public static String postToServerGzip(String url, List<CustomNameValuePair> params) throws IOException {
         Log.d("<> URL <>", url);
         String response = "";
