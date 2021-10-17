@@ -23,6 +23,7 @@ try:
     with open("chatbot.pickle", "rb") as file:
         words, labels, training, output = pickle.load(file)
 
+        #as you can see this is an mobile application
 except:
     words = []
     labels = []
