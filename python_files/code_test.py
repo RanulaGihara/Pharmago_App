@@ -18,6 +18,7 @@ strx = "adbv345hj43hvb9 days fgdgf 2 days"
 array = getNumbers(strx)
 print(*array)
 
+#function for this 
 print(current_milli_time())
 
 coord_1 = (7.9310787933865186, 81.03248907260215)
