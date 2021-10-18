@@ -14,6 +14,8 @@ from sklearn.metrics import matthews_corrcoef
 from math import sqrt
 
 
+#has made some contributions 
+
 def getData(medicine_type, month_count):
     if medicine_type == 1:
         df = pd.read_csv('paracetamol.csv', index_col='Date', parse_dates=True)
