@@ -1,6 +1,6 @@
+
+#import files 
 import easyocr
-
-
 def read_image(image_path):
     value = []
     reader = easyocr.Reader(['en'])
