@@ -1,7 +1,6 @@
 import json
 import pickle
 import random
-
 import nltk
 import numpy
 from nltk.stem import LancasterStemmer
@@ -11,6 +10,8 @@ from tensorflow.python.keras.models import model_from_yaml
 import sqlite3
 import re
 import haversine as hs
+
+#new contributions has updated 
 
 nltk.download('punkt')
 
